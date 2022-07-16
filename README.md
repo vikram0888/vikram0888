@@ -1,7 +1,7 @@
-[![MasterHead](https://www.dreamstime.com/photos-images/data-science.html)]
+
 <h1 align="center">Hi 👋, I'm Vikram Jha</h1>
 <h3 align="center">A Passionate Data Scientist from India</h3>
-![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)https://unsplash.com/photos/hpjSkU2UYSU
+
 
 - 📫 How to reach me **vikramjha753@gmail.com**
 
