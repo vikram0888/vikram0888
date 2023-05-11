@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **vikramjha753@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.leetcode.com/vikramjha753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikramjha753" height="30" width="40" /></a>
 </p>
