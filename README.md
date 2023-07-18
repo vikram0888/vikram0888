@@ -3,24 +3,23 @@
 <h3 align="center">A Passionate Data Scientist</h3>
 <h3 align="left"> 
 About : </h3>
+
+
+<h3 align="left"> 🔭 I am really passionate about Python, Machine Learning, Computer Vision, Deep Learning, Statistics and Natural Language Processing. </h3>
+
+<h3 align="left"> 💬 My Personal motive is to give my full potential to build Machine Learning-based solutions that solve a high-impact problem for people around the globe and simplify everyday living. </h3>
+
+<h3 align="left"> 👯 Completed Internship From Inueron Intelligence On the Topic of Thyroid Disease Detetction. Link : https://www.linkedin.com/posts/vikram888_tensorflow-docker-cloud-activity-7060251200528519169-YL5m?utm_source=share&utm_medium=member_desktop </h3>
+
+<h3 align="left"> ⚡ Currently Learning Data Science from Ineuron Intelligence. </h3>
+
+
 <h3 align="left"> 
-🔭 I have completed my masters in Artificial Intelligence from IIT Hyderabad. </h3>
+🔭 I have completed my B.Sc. with SGPA - 9.15 </h3>
 
-<h3 align="left"> 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. </h3>
 
-<h3 align="left"> 🔭 I enjoy creating content and videos, and my YouTube channel, "Priya Bhatia," is full of high-quality DSA and data science content. </h3>
 
-<h3 align="left"> 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living. </h3>
-
-<h3 align="left"> ⚡ Currently working as a Data Scientist at Ineuron Intelligence. </h3>
-
-<h3 align="left"> ⚡ Taught Data Structure Algorithms and Data Science. </h3>
-
-👯 Worked as Software Engineer having one year of experience with Thales Group. </h3>
-
-<h3 align="left"> 🏆 Selected among the top 40 postgraduate students from premier institutes (IITs, IISC) for academic excellence in Reliance Foundation Scholarship in Artificial Intelligence and Computer Science for the year 2020-21. </h3>
-
-<h3 align="left"> Skills: Machine Learning | Deep Learning | Medical Image Processing | Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Information Retrieval | Natural Language Processing | Big Data | Hadoop | MapReduce | Sqoop | Apache Hive | Apache Spark with Scala | Linux </h3>
+<h3 align="left"> Skills: Machine Learning | Computer Vision| Deep Learning | Probability and Random Variables | Applied Statistics | Information Retrieval | Natural Language Processing | SQL| MySQL |TensorFlow | Pytorch | OpenCV | MLOps </h3>
 
 
 - 📫 How to reach me **vikramjha753@gmail.com**
