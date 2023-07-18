@@ -1,8 +1,27 @@
-![logo](https://github.com/vikram0888/vikram0888/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vikram Jha</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="left"> 
+About : </h3>
+<h3 align="left"> 
+🔭 I have completed my masters in Artificial Intelligence from IIT Hyderabad. </h3>
 
-- 🌱 I’m currently learning **Data Science**
+<h3 align="left"> 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. </h3>
+
+<h3 align="left"> 🔭 I enjoy creating content and videos, and my YouTube channel, "Priya Bhatia," is full of high-quality DSA and data science content. </h3>
+
+<h3 align="left"> 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living. </h3>
+
+<h3 align="left"> ⚡ Currently working as a Data Scientist at Ineuron Intelligence. </h3>
+
+<h3 align="left"> ⚡ Taught Data Structure Algorithms and Data Science. </h3>
+
+👯 Worked as Software Engineer having one year of experience with Thales Group. </h3>
+
+<h3 align="left"> 🏆 Selected among the top 40 postgraduate students from premier institutes (IITs, IISC) for academic excellence in Reliance Foundation Scholarship in Artificial Intelligence and Computer Science for the year 2020-21. </h3>
+
+<h3 align="left"> Skills: Machine Learning | Deep Learning | Medical Image Processing | Data Structure | Algorithms | Matrix Theory | Probability and Random Variables | Applied Statistics | Information Retrieval | Natural Language Processing | Big Data | Hadoop | MapReduce | Sqoop | Apache Hive | Apache Spark with Scala | Linux </h3>
+
 
 - 📫 How to reach me **vikramjha753@gmail.com**
 
