@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram Jha</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/vikram0888/vikram0888/assets/100748938/63452710-9c6b-45d8-a075-48295ebc0bd9)
-">
 
 - 🌱 I’m currently learning **Data Science**
 
