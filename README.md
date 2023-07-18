@@ -1,3 +1,4 @@
+![logo](https://github.com/vikram0888/vikram0888/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vikram Jha</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
