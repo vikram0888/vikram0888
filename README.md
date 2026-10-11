@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vikram Jha</h1>
-<h3 align="center">A Passionate Data Scientist</h3>
+<h3 align="center">A Passionate SOC Analyst</h3>
 <h3 align="left"> 
 About : </h3>
 
@@ -11,7 +11,7 @@ About : </h3>
 
 <h3 align="left"> 👯 Completed Internship From Inueron Intelligence On the Topic of Thyroid Disease Detetction. Link : https://www.linkedin.com/posts/vikram888_tensorflow-docker-cloud-activity-7060251200528519169-YL5m?utm_source=share&utm_medium=member_desktop </h3>
 
-<h3 align="left"> ⚡ Currently Learning Data Science from Ineuron Intelligence. </h3>
+<h3 align="left">  </h3>
 
 
 <h3 align="left"> 
